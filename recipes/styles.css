@@ -1,0 +1,22 @@
+
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+body {
+    color: goldenrod;
+    background-color: pink;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
